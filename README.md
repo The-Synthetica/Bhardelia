@@ -58,7 +58,7 @@ At the moment,the bot lost the only free hosting lol. (Pagar un server en dolare
 
 # 🔗 Links
 
-###Related content:
+### Related content:
 
 [![gemini-api](https://img.shields.io/badge/-Gemini%20Api%20Docs-informational?logo=Google&style=for-the-badge&logoColor=4285f4&color=fafafa&labelColor=fafafa)](https://ai.google.dev/tutorials/python_quickstart "Gemini-Api")
 
@@ -66,7 +66,7 @@ At the moment,the bot lost the only free hosting lol. (Pagar un server en dolare
 
 [![Invite Bhardelia](https://img.shields.io/badge/-Invite%20Bhardelia-informational?logo=Discord&style=for-the-badge&logoColor=ffffff&color=fafafa&labelColor=5865f2&)](https://discord.com/oauth2/authorize?client_id=1198735562706792518&scope=applications.commands%20bot&permissions=537159744)
 
-###About Me:
+### About Me:
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://the-synthetica.github.io/)
 
@@ -75,4 +75,4 @@ At the moment,the bot lost the only free hosting lol. (Pagar un server en dolare
 [![linktree](https://img.shields.io/badge/linktree-black?style=for-the-badge&logo=linktree&logoColor=4DCC17)](https://linktr.ee/FranciscoRizzi)
 
 
-> ##### Besitos! ❤️
+##### Besitos! ❤️
