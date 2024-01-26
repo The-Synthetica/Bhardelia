@@ -1,10 +1,10 @@
-#💀 Bhardelia
+# 💀 Bhardelia
 Un-Official Google Bard bot. Using the Gemini Api from Google.
 
 (for entertainment use)
 
 ![](https://i.imgur.com/RAJC66P.png)
-#📚 Modules
+# 📚 Modules
 
 ***app.py*** : This module uses the Gemini Api to request a textual response, the process is separated in 3 possible cases of request, based on the idea that the simple text responses can have an historial that the other cases apparently cant have.
 
@@ -44,7 +44,7 @@ Un-Official Google Bard bot. Using the Gemini Api from Google.
 - `servers` : Saves the server ID and the established text channel on a python dictionary. I used the pickle library for use this option. And the server code is not private, its safe!
 
 
-#🔧 Future upgrades! 
+# 🔧 Future upgrades! 
 
 This project isnt prepared for high demand requests. 
 
@@ -56,7 +56,7 @@ We can implement a fine tunning for the bot and find a hosting to!
 
 At the moment,the bot lost the only free hosting lol. (Pagar un server en dolares para este proyecto no esta en mi abanico de posibilidades. #Argentina )
 
-#🔗 Links
+# 🔗 Links
 
 ###Related content:
 
