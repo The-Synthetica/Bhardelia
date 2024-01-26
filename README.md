@@ -54,7 +54,9 @@ The idea behind this is add multiple NLP-AI's to my discord channel. And make so
 
 We can implement a fine tunning for the bot and find a hosting to! 
 
-At the moment,the bot lost the only free hosting lol. (Pagar un server en dolares para este proyecto no esta en mi abanico de posibilidades. #Argentina )
+At the moment, the bot lost the only free hosting lol. (Pagar un server en dolares para este proyecto no esta en mi abanico de posibilidades. #Argentina )
+
+Important!: The history chat of the bot doesnt work in high demand request due its a simple client for all the servers, so, if i want to have a record of all the servers, each server must have their own client, or the client should admit have different records. (I try this last one, but the client dont admint the chat history object)
 
 # 🔗 Links
 
