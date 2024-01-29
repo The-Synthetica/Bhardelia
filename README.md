@@ -1,6 +1,6 @@
 # 💀 Bhardelia
 Un-Official Google Bard bot. Using the Gemini Api from Google.
-
+Actually running into my raspberry pi 2B with an Ubuntu os (can be unstable) ♥
 (for entertainment use)
 
 ![](https://i.imgur.com/RAJC66P.png)
