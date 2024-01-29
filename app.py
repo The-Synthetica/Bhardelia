@@ -4,7 +4,7 @@ from IPython.display import Markdown
 import google.generativeai as palm
 
 import os
-key= os.getenv("geminiToken")
+key= str(os.getenv("geminiToken"))
 
 palm.configure(api_key = key)
 
