@@ -3,7 +3,9 @@ from IPython.display import Markdown
 
 import google.generativeai as palm
 
-key= "Here goes your gemini api key! See The Official Page."
+import os
+key= os.getenv("geminiToken")
+
 palm.configure(api_key = key)
 
 

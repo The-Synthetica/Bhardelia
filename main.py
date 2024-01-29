@@ -180,7 +180,10 @@ async def on_message(message):
 
 
 # Ejecutamos el cliente.
-token= 'discord api secret token'
+import os
+
+#Usen variables de entorno ♥
+token= str( os.getenv("discordToken") )
 client.run( token )
 
 # Notita, les recomendaria usar variables de entorno si tienen la posibilidad o en su defecto claramente
